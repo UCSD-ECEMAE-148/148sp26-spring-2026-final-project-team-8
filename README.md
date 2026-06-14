@@ -41,9 +41,6 @@
 
 ## Team Members
 
-<div align="center">
-  <p>Henry Tiet, Geonmoo Lee, and Christopher Wong</p>
-</div>
 
 | Name | Major |
 |------|-------|
