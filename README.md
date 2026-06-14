@@ -260,5 +260,5 @@ Henry Tiet, Geonmoo Lee, Christopher Wong
 ## Contact
 
 * Henry Tiet — henrytiet@gmail.com
-* Geonmoo Lee — *(add email)*
+* Geonmoo Lee — lgmoo2002@gmail.com
 * Chris Wong — christopherwong747@gmail.com
