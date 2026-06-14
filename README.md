@@ -54,7 +54,7 @@
 
 ### Original Goals
 
-Our goal was to build a fully autonomous parallel parking system for the UCSD RoboCar. The robot should:
+Our goal was to build a fully-autonomous parallel parking system for the UCSD RoboCar. The robot should:
 1. Drive forward past parking spaces while scanning for an open spot.
 2. Detect available spaces using computer vision (OAK-D Lite + Roboflow).
 3. Classify the open space as left or right of the vehicle.
@@ -242,7 +242,7 @@ ros2 launch parking_system parking_auto.launch.py
 
 ## Acknowledgments
 
-Big thanks to Professor Jack Silberman and our TAs for the guidance and support throughout the quarter. The base robot platform and Docker environment come from [ucsd_robocar_hub2](https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2).
+Big thanks to Professor Jack Silberman and our TAs (Jose and Winston) for the guidance and support throughout the quarter. The base robot platform and Docker environment come from [ucsd_robocar_hub2](https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2).
 
 ---
 
@@ -256,4 +256,4 @@ Henry Tiet, Geonmoo Lee, Christopher Wong
 
 * Henry Tiet — henrytiet@gmail.com
 * Geonmoo Lee — *(add email)*
-* Chris Wong — *(add email)*
+* Chris Wong — christopherwong747@gmail.com
