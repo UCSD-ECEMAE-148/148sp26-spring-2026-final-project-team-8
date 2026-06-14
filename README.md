@@ -76,6 +76,14 @@ Our goal was to build a fully-autonomous parallel parking system for the UCSD Ro
 
 - **Debug tooling** — Scan images (pre- and post-inference) are saved to `/tmp/` inside the container so they can be inspected without a display (`docker cp robocar_team8:/tmp/parking_scan_result.jpg .`).
 
+### Videos of Our Robot in Action
+
+https://youtube.com/shorts/1gtUK5bpeUI
+
+https://youtube.com/shorts/GxLNIVexZjE
+
+https://youtube.com/shorts/YCyL7NqtCjI
+
 ### If We Had Another Week...
 
 #### Stretch Goal 1 — Full integration test
