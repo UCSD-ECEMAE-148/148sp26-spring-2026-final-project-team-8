@@ -210,13 +210,6 @@ After a scan you can pull the annotated image off the robot:
 
 ```bash
 docker cp <your_container_name>:/tmp/parking_scan_result.jpg .
-```
-
-### Demo
-
-<!-- Add a YouTube link here once available -->
-*Demo video coming soon.*
-
 ---
 
 ## Docker Environment
