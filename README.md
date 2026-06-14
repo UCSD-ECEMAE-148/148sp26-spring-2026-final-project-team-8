@@ -22,6 +22,7 @@
       <ul>
         <li><a href="#original-goals">Original Goals</a></li>
         <li><a href="#goals-we-met">Goals We Met</a></li>
+        <li><a href="#videos">Videos</a></li>
         <li><a href="#if-we-had-another-week">If We Had Another Week...</a></li>
       </ul>
     </li>
