@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <h1>Autonomous Parking RoboCar</h1>
-  <h3>ECEMAE148 Final Project — Team 8, Spring 2026</h3>
+  <h3>ECE MAE 148 Final Project — Team 8, Spring 2026</h3>
   <!-- Add a photo of your robot here -->
   <!-- <img src="robot.jpg" width="500"> -->
 </div>
