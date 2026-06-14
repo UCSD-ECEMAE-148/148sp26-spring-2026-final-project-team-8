@@ -42,14 +42,14 @@
 ## Team Members
 
 <div align="center">
-  <p>Henry Tiet, Geonmoo Lee, and Chris Wong</p>
+  <p>Henry Tiet, Geonmoo Lee, and Christopher Wong</p>
 </div>
 
 | Name | Major |
 |------|-------|
 | Henry Tiet | Electrical & Computer Engineering |
 | Geonmoo Lee | Mechanical & Aerospace Engineering |
-| Chris Wong | Mechanical & Aerospace Engineering |
+| Christopher Wong | Mechanical & Aerospace Engineering |
 
 ---
 
@@ -112,7 +112,7 @@ AckermannDriveStamped → /drive → VESC motor controller
 
 | Component | Purpose |
 |-----------|---------|
-| Raspberry Pi 4 | Main compute |
+| Raspberry Pi 5 | Main compute |
 | OAK-D Lite | RGB camera + spatial AI |
 | VESC 6 | Motor controller + odometry |
 | RC car chassis | Ackermann drive platform |
@@ -251,7 +251,7 @@ Big thanks to Professor Jack Silberman and our TAs for the guidance and support 
 
 ## Authors
 
-Henry Tiet, Geonmoo Lee, Chris Wong
+Henry Tiet, Geonmoo Lee, Christopher Wong
 
 ---
 
